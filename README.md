@@ -11,7 +11,9 @@ This is a dynamic map adder that helps you to add or delete maps from web in ser
 
 ## Getting started
 To get started you just need to edit the settings as told below
+
 ** For web part: **
+
 Open config.php and edit the code in it.
 config.php looks something like this :
 ```php
@@ -25,7 +27,9 @@ $server_name = "Your Server Name";
 $server_logo = "Demo Server Logo Here"; 
 ?>
 ```
+
 ** For in-game part: **
+
 Edit the #define's at top of pawn script
 It looks something like this :
 ```pawn
