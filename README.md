@@ -1,7 +1,7 @@
 ## What exactly is this?
 This is a dynamic map adder that helps you to add or delete maps from web in server. With this you don't need to upload maps as a FilterScript from FTP, you can just simply insert using a webpage. You can delete maps, see map info and add maps from web, and those maps can be loaded in server via a command.
 
-** Note that the pawn script is based on MySQL plugin by BlueG version r39-2 yet to be updated to latest version **
+**Note that the pawn script is based on MySQL plugin by BlueG version r39-2 yet to be updated to latest version**
 
 ## Pics of web page in action
 <img src="https://i.gyazo.com/ff3cd3387f753e5579007b88142e3ce2.jpg" width="200"/> <img src="https://i.gyazo.com/2b86fc8bee45628ad006a991c6927202.png" width="200"/> <img src="https://i.gyazo.com/5a328f504085907d9baf92d07cf2b16a.png" width="200"/> <img src="https://i.gyazo.com/616c154595807a6cd4738876ec150adb.png" width="200"/> <img src="https://i.gyazo.com/39a7c6079897fb046d3c0bc6f6fe10d2.png" width="200"/>
@@ -12,7 +12,7 @@ This is a dynamic map adder that helps you to add or delete maps from web in ser
 ## Getting started
 To get started you just need to edit the settings as told below
 
-** For web part: **
+**For web part:**
 
 Open config.php and edit the code in it.
 config.php looks something like this :
@@ -28,7 +28,7 @@ $server_logo = "Demo Server Logo Here";
 ?>
 ```
 
-** For in-game part: **
+**For in-game part:**
 
 Edit the #define's at top of pawn script
 It looks something like this :
